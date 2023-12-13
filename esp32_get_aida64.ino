@@ -3,10 +3,10 @@
 #include <WiFi.h>
 #include <math.h>
 
-const char *ssid = "OpenWrt";
-const char *password = "13531634322aa";
-const char *host = "192.168.31.5";//主机ip地址
-const int port = 9999;  // 新增的端口号变量
+const char *ssid = "xxxx";//wifi名称
+const char *password = "xxxx";//wifi密码
+const char *host = "xxxx";//主机ip地址
+const int port = xxxx;  // 新增的端口号变量
 const int dac_pin25 = 25;
 const int dac_pin26 = 26;
 const int maxavoltage = 1;//电压表最大电压
