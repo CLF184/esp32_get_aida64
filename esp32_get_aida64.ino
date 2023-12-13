@@ -10,7 +10,7 @@ const int port = xxxx;  // 新增的端口号变量
 const int dac_pin25 = 25;
 const int dac_pin26 = 26;
 const int maxavoltage = 1;//电压表最大电压
-const float amplitude = 0.2;//幅度
+const float amplitude = 0.2;//变化幅度
 const double step = 0.0129411764705882;//8bit-dac每1bit的电压
 
 float item_1 = 0;
